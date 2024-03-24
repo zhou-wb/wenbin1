@@ -21,10 +21,10 @@ repository               : "zhou-wb/zhou-wb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Wenbin_square.jpg"
   name             : "Wenbin Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "1st-year PhD student @ Welight Lab"
+  bio              : "23 Fall PhD student @ HKU Welight Lab"
   location         : "Pokfulam, Hong Kong"
   employer         : "The University of Hong Kong"
   uri              : # URL
