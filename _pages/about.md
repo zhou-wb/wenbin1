@@ -11,7 +11,7 @@ redirect_from:
 ===== -->
 I am a first year Ph.D. student in the [Department of Electrical and Electronic Engineering (EEE)]() and [Computer Science (CS)]() at [the University of Hong Kong (HKU)](). Currently, I am conducting research in the Computational Imaging & Mixed Representation Labortory, aka., [WeLight@HKU]() led by [Dr. Evan Peng]().
 
-I completed my bachelor's degree in Physics (with a minor in Computer Science), under the guidance of [Prof. Ligang Liu](), at [the University of Science and Technology of China](), and further pursued a master's degree in Computer Science at the University of Hong Kong, under the supervision of Dr. Evan Peng. Additionally, I gained valuable experience as a Research Assistant at [Purdue University](), where I was led by [Prof. Bedrich Benes]() for a period of two years.
+I completed my bachelor's degree in Physics (with a minor in Computer Science), under the guidance of [Prof. Ligang Liu](), at [the University of Science and Technology of China (USTC)](), and further pursued a master's degree in Computer Science at the University of Hong Kong, under the supervision of Dr. Evan Peng. Additionally, I gained valuable experience as a Research Assistant at [Purdue University](), where I was led by [Prof. Bedrich Benes]() for a period of two years.
 
 My current academic interests revolve around the areas of Holography, Optics, Computer Graphics, and Virtual/Augmented Reality. You can find my CV here.
 
