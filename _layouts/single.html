@@ -48,13 +48,15 @@ layout: default
         {{ content }}
 
         <!-- {% if page.citation and page.paperurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+          <p style="font-size: smaller">Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>Get the PDF</u></a></p>
         {% elsif page.citation %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }} </p>
         {% endif %} -->
-        {% if page.citation and page.paperurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }} <a href="Get the PDF"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.citation %}
+
+        {% if page.paperurl %}
+          <p style="font-size: smaller"><a href="{{ page.paperurl }}"><u>Get the PDF</u></a></p>
+        {% endif %}
+        {% if page.citation %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }} </p>
         {% endif %}
 
